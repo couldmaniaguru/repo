@@ -1,0 +1,10 @@
+Username for 'https://github.com': couldmaniaguru
+Password for 'https://couldmaniaguru@github.com':
+Total 0 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'yahoo' on GitHub by visiting:
+remote:      https://github.com/couldmaniaguru/repo/pull/new/yahoo
+remote:
+To https://github.com/couldmaniaguru/repo.git
+ * [new branch]      yahoo -> yahoo
+Branch 'yahoo' set up to track remote branch 'yahoo' from 'origin'.
